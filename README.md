@@ -1,2 +1,2 @@
-# calculator
-Calculator Project (TOP)
+# Calculator
+Calculator Project from TheOdinProject.
